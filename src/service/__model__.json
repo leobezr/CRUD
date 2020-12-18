@@ -1,0 +1,32 @@
+[
+   {
+      "name": "Leonardo Bezerra",
+      "role": "Dev Front-end",
+      "cpf": "140.957.527-69",
+      "phone": "(21) 96540-7423",
+      "email": "le.bezr@gmail.com",
+      "gender": "Masculino",
+      "status": "true",
+      "birthday": "19/10/1993"
+   },
+   {
+      "name": "Johnny Brabo",
+      "role": "Dev Back-end",
+      "cpf": "140.957.527-69",
+      "phone": "(21) 96540-7423",
+      "email": "le.bezr@gmail.com",
+      "gender": "Masculino",
+      "status": "true",
+      "birthday": "19/10/1993"
+   },
+   {
+      "name": "Alexandra Daddario",
+      "role": "Dev Back-end",
+      "cpf": "140.957.527-69",
+      "phone": "(21) 96540-7423",
+      "email": "alexa@gmail.com",
+      "gender": "Feminino",
+      "status": "true",
+      "birthday": "19/10/1993"
+   }
+]
