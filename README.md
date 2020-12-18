@@ -1,10 +1,10 @@
 # CRUD &middot; [![Build Status](https://img.shields.io/travis/npm/npm/latest.svg?style=flat-square)](https://travis-ci.org/npm/npm) [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/npm)
 
-A very simple and responsive app, very useful as a boilerplate. You will find a slightly complex but scalable CRUD system.
+A very simple and responsive app, useful as a boilerplate. You will find a slightly complex but scalable CRUD system.
 
 ## Installing / Getting started
 
-I user `Yarn` for this project, before starting up this project you will need to start up the backend as well. It is set to watch port `localhost:3333`.
+I used `Yarn` for this project, before starting up you will need to have a backend server running. It is set to watch `localhost:3333` but you can change this using env files.
 
 ```shell
 $ yarn
@@ -24,10 +24,10 @@ Will install dependencies and run project.
 
 ### Prerequisites
 
-The env files should be set up as the `.env.sample`.
+The env files should be set up as the `.env.sample`, but if you wish to have more then one environment such as development, homolog and staging, you should change `package.json` config to proper handle environments.
 
 ```shell
-git clone https://github.com/leobezr/CRUD-backend.git
+git clone https://github.com/leobezr/CRUD.git
 cd your-project/
 yarn
 ```
