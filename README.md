@@ -32,10 +32,10 @@ cd your-project/
 yarn
 ```
 
-## Data base
+### Building
 
-It have no database, it uses only a `JSON` file for now.
+If you choose to build this project, you should configure the `.env` file and add a `.env.development.local` for development environment.
 
-## Frontend
+## Api Reference
 
-You can find the front-end project [here](https://github.com/leobezr/CRUD)
+You can find the backend documentation [here](https://github.com/leobezr/CRUD-backend)
